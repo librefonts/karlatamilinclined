@@ -1,0 +1,9 @@
+commit: HEAD
+process_files: [KarlaTamilInclined-Regular.ttf.ttx, KarlaTamilInclined-Bold.ttf.ttx,
+  src/KarlaUpright-PreVOLT.ttf.ttx, src/KarlaUpright-InVOLT.ttf.ttx, src/KarlaUpright-Bold-PreVOLT.ttf.ttx,
+  src/KarlaUpright-Bold-InVOLT.ttf.ttx, src/KarlaInclined-PreVOLT.ttf.ttx, src/KarlaInclined-InVOLT.ttf.ttx,
+  src/KarlaInclined-Bold-PreVOLT.ttf.ttx, src/KarlaInclined-Bold-InVOLT.ttf.ttx, orig/KarlaTamilInclined-Regular.ttf.ttx,
+  orig/KarlaTamilInclined-Bold.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

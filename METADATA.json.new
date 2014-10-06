@@ -1,0 +1,51 @@
+{
+  "name": "Karla Tamil Inclined",
+  "designer": "Jonathan Pinhorn",
+  "license": "OFL",
+  "visibility": "Internal",
+  "category": "Sans Serif",
+  "size": 48621,
+  "fonts": [
+    {
+      "name": "Karla Tamil",
+      "style": "normal",
+      "weight": 700,
+      "filename": "KarlaTamil-BoldInclined.ttf",
+      "postScriptName": "KarlaTamil-BoldInclined",
+      "fullName": "Karla Tamil Bold Inclined",
+      "copyright": "Copyright (c) 2011 by Jonathan Pinhorn. All rights reserved."
+    },
+    {
+      "name": "Karla Tamil",
+      "style": "normal",
+      "weight": 400,
+      "filename": "KarlaTamil-Inclined.ttf",
+      "postScriptName": "KarlaTamil-Inclined",
+      "fullName": "Karla Tamil Inclined",
+      "copyright": "Copyright (c) 2011 by Jonathan Pinhorn. All rights reserved."
+    },
+    {
+      "name": "Karla Tamil",
+      "style": "normal",
+      "weight": 700,
+      "filename": "KarlaTamil-Bold.ttf",
+      "postScriptName": "KarlaTamil-Bold",
+      "fullName": "Karla Tamil Bold",
+      "copyright": "Copyright (c) 2011 by Jonathan Pinhorn. All rights reserved."
+    },
+    {
+      "name": "Karla Tamil",
+      "style": "normal",
+      "weight": 400,
+      "filename": "KarlaTamil-Regular.ttf",
+      "postScriptName": "KarlaTamil",
+      "fullName": "Karla Tamil",
+      "copyright": "Copyright (c) 2011 by Jonathan Pinhorn. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-09-29"
+}
